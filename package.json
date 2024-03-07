@@ -1,5 +1,5 @@
 {
-  "name": "napping",
+  "name": "napping_toolkit",
   "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RubbyCherry/napping"
+    "url": "https://github.com/RubbyCherry/napping_toolkit"
   },
   "keywords": [
     "react",
@@ -29,7 +29,7 @@
   "author": "RubbyCherry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RubbyCherry/napping/issues"
+    "url": "https://github.com/RubbyCherry/napping_toolkit/issues"
   },
   "files": [
     "dist",
@@ -85,5 +85,5 @@
     "redsync_go": "1.0.0",
     "git-go-websiteskeleton": "1.0.0"
   },
-  "homepage": "https://github.com/RubbyCherry/napping#README.md"
+  "homepage": "https://github.com/RubbyCherry/napping_toolkit#README.md"
 }
