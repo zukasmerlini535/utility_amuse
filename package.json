@@ -1,12 +1,12 @@
 {
-  "name": "pixel_cyber_link",
-  "version": "1.2.0",
+  "name": "byte_tech_maze",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BauknightMenas315/pixel_cyber_link"
+    "url": "https://github.com/ruthemontefusco375/byte_tech_maze"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "BauknightMenas315",
+  "author": "ruthemontefusco375",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BauknightMenas315/pixel_cyber_link/issues"
+    "url": "https://github.com/ruthemontefusco375/byte_tech_maze/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -77,7 +77,8 @@
     "logic_code_matrix": "1.0.0",
     "cyber_wave_link": "1.0.0",
     "data_tech_pulse": "1.0.0",
-    "net_code_spark": "1.0.0"
+    "net_code_spark": "1.0.0",
+    "pixel_cyber_link": "1.0.0"
   },
-  "homepage": "https://github.com/BauknightMenas315/pixel_cyber_link#README.md"
+  "homepage": "https://github.com/ruthemontefusco375/byte_tech_maze#README.md"
 }
