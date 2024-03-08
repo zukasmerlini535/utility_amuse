@@ -1,12 +1,12 @@
 {
-  "name": "tech_matrix_code",
-  "version": "1.2.0",
+  "name": "net_pixel_vortex",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JonasonEarehart326/tech_matrix_code"
+    "url": "https://github.com/ErhartNiki340/net_pixel_vortex"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "JonasonEarehart326",
+  "author": "ErhartNiki340",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JonasonEarehart326/tech_matrix_code/issues"
+    "url": "https://github.com/ErhartNiki340/net_pixel_vortex/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -70,7 +70,8 @@
     "get_map_tea": "1.0.0",
     "no_code_serv": "1.0.0",
     "byte_logic_spark": "1.0.0",
-    "data_cyber_pulse": "1.0.0"
+    "data_cyber_pulse": "1.0.0",
+    "tech_matrix_code": "1.0.0"
   },
-  "homepage": "https://github.com/JonasonEarehart326/tech_matrix_code#README.md"
+  "homepage": "https://github.com/ErhartNiki340/net_pixel_vortex#README.md"
 }
