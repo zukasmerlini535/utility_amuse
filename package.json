@@ -1,12 +1,12 @@
 {
-  "name": "git_tea_toolkit",
-  "version": "1.2.0",
+  "name": "pool_tea_utils",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KermitCisneros528/git_tea_toolkit"
+    "url": "https://github.com/827danny/pool_tea_utils"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "KermitCisneros528",
+  "author": "827danny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KermitCisneros528/git_tea_toolkit/issues"
+    "url": "https://github.com/827danny/pool_tea_utils/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -73,5 +73,5 @@
     "random_pool_tea_utils": "1.0.0",
     "hexo_page_utils": "1.0.0"
   },
-  "homepage": "https://github.com/KermitCisneros528/git_tea_toolkit#README.md"
+  "homepage": "https://github.com/827danny/pool_tea_utils#README.md"
 }
