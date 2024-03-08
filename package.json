@@ -1,12 +1,12 @@
 {
-  "name": "serv_go_helpers",
-  "version": "1.2.0",
+  "name": "rol_tea_kit_to",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mckinnona888/serv_go_helpers"
+    "url": "https://github.com/mckinnona888/rol_tea_kit_to"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "mckinnona888",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mckinnona888/serv_go_helpers/issues"
+    "url": "https://github.com/mckinnona888/rol_tea_kit_to/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -61,7 +61,8 @@
     "gener_templatex_utils": "1.0.0",
     "git_push_kkit": "1.0.0",
     "node_utils_pages": "1.0.0",
-    "tea_serv_utils": "1.0.0"
+    "tea_serv_utils": "1.0.0",
+    "serv_go_helpers": "1.0.0"
   },
-  "homepage": "https://github.com/mckinnona888/serv_go_helpers#README.md"
+  "homepage": "https://github.com/mckinnona888/rol_tea_kit_to#README.md"
 }
