@@ -1,12 +1,12 @@
 {
-  "name": "get_map_tea",
-  "version": "1.2.0",
+  "name": "no_code_serv",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ErhartNiki340/get_map_tea"
+    "url": "https://github.com/BauknightMenas315/no_code_serv"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "ErhartNiki340",
+  "author": "BauknightMenas315",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ErhartNiki340/get_map_tea/issues"
+    "url": "https://github.com/BauknightMenas315/no_code_serv/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -66,7 +66,8 @@
     "rol_tea_kit_to": "1.0.0",
     "home_ass_toolkit": "1.0.0",
     "home_vue_page": "1.0.0",
-    "check_map_date_t": "1.0.0"
+    "check_map_date_t": "1.0.0",
+    "get_map_tea": "1.0.0"
   },
-  "homepage": "https://github.com/ErhartNiki340/get_map_tea#README.md"
+  "homepage": "https://github.com/BauknightMenas315/no_code_serv#README.md"
 }
