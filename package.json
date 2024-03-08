@@ -1,12 +1,12 @@
 {
-  "name": "vue_aui_admin",
-  "version": "1.2.0",
+  "name": "node_page_tea",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/827danny/vue_aui_admin"
+    "url": "https://github.com/jouckodd/node_page_tea"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "827danny",
+  "author": "jouckodd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/827danny/vue_aui_admin/issues"
+    "url": "https://github.com/jouckodd/node_page_tea/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -75,7 +75,8 @@
     "pool_tea_utils": "1.0.0",
     "react_add_sum_util": "1.0.0",
     "node_proxy_random": "1.0.0",
-    "pot_try_dit": "1.0.0"
+    "pot_try_dit": "1.0.0",
+    "vue_aui_admin": "1.0.0"
   },
-  "homepage": "https://github.com/827danny/vue_aui_admin#README.md"
+  "homepage": "https://github.com/jouckodd/node_page_tea#README.md"
 }
