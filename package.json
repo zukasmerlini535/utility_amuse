@@ -1,12 +1,12 @@
 {
-  "name": "react_add_sum_util",
-  "version": "1.2.0",
+  "name": "node_proxy_random",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/827danny/react_add_sum_util"
+    "url": "https://github.com/827danny/node_proxy_random"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "827danny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/827danny/react_add_sum_util/issues"
+    "url": "https://github.com/827danny/node_proxy_random/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "random_sum_key": "1.0.0",
     "random_pool_tea_utils": "1.0.0",
     "hexo_page_utils": "1.0.0",
-    "pool_tea_utils": "1.0.0"
+    "pool_tea_utils": "1.0.0",
+    "react_add_sum_util": "1.0.0"
   },
-  "homepage": "https://github.com/827danny/react_add_sum_util#README.md"
+  "homepage": "https://github.com/827danny/node_proxy_random#README.md"
 }
