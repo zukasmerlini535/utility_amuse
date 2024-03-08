@@ -1,12 +1,12 @@
 {
-  "name": "net_cyber_wave",
-  "version": "1.2.0",
+  "name": "pixel_data_link",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruthemontefusco375/net_cyber_wave"
+    "url": "https://github.com/HermineHultgren337/pixel_data_link"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "ruthemontefusco375",
+  "author": "HermineHultgren337",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ruthemontefusco375/net_cyber_wave/issues"
+    "url": "https://github.com/HermineHultgren337/pixel_data_link/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -58,7 +58,8 @@
     "rollup-plugin-uglify": "^3.0.0",
     "cyber_stream_code": "1.0.0",
     "data_pixel_vortex": "1.0.0",
-    "tech_logic_maven": "1.0.0"
+    "tech_logic_maven": "1.0.0",
+    "net_cyber_wave": "1.0.0"
   },
-  "homepage": "https://github.com/ruthemontefusco375/net_cyber_wave#README.md"
+  "homepage": "https://github.com/HermineHultgren337/pixel_data_link#README.md"
 }
