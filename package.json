@@ -1,12 +1,12 @@
 {
-  "name": "no_code_serv",
-  "version": "1.2.0",
+  "name": "byte_logic_spark",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BauknightMenas315/no_code_serv"
+    "url": "https://github.com/ruthemontefusco375/byte_logic_spark"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "BauknightMenas315",
+  "author": "ruthemontefusco375",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BauknightMenas315/no_code_serv/issues"
+    "url": "https://github.com/ruthemontefusco375/byte_logic_spark/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -67,7 +67,8 @@
     "home_ass_toolkit": "1.0.0",
     "home_vue_page": "1.0.0",
     "check_map_date_t": "1.0.0",
-    "get_map_tea": "1.0.0"
+    "get_map_tea": "1.0.0",
+    "no_code_serv": "1.0.0"
   },
-  "homepage": "https://github.com/BauknightMenas315/no_code_serv#README.md"
+  "homepage": "https://github.com/ruthemontefusco375/byte_logic_spark#README.md"
 }
