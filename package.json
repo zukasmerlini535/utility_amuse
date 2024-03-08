@@ -1,12 +1,12 @@
 {
-  "name": "cyber_wave_link",
-  "version": "1.2.0",
+  "name": "data_tech_pulse",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HermineHultgren337/cyber_wave_link"
+    "url": "https://github.com/JonasonEarehart326/data_tech_pulse"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "HermineHultgren337",
+  "author": "JonasonEarehart326",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HermineHultgren337/cyber_wave_link/issues"
+    "url": "https://github.com/JonasonEarehart326/data_tech_pulse/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -74,7 +74,8 @@
     "tech_matrix_code": "1.0.0",
     "net_pixel_vortex": "1.0.0",
     "byte_stream_maven": "1.0.0",
-    "logic_code_matrix": "1.0.0"
+    "logic_code_matrix": "1.0.0",
+    "cyber_wave_link": "1.0.0"
   },
-  "homepage": "https://github.com/HermineHultgren337/cyber_wave_link#README.md"
+  "homepage": "https://github.com/JonasonEarehart326/data_tech_pulse#README.md"
 }
