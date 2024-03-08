@@ -1,12 +1,12 @@
 {
-  "name": "byte_stream_maven",
-  "version": "1.2.0",
+  "name": "logic_code_matrix",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BauknightMenas315/byte_stream_maven"
+    "url": "https://github.com/ruthemontefusco375/logic_code_matrix"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "BauknightMenas315",
+  "author": "ruthemontefusco375",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BauknightMenas315/byte_stream_maven/issues"
+    "url": "https://github.com/ruthemontefusco375/logic_code_matrix/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "byte_logic_spark": "1.0.0",
     "data_cyber_pulse": "1.0.0",
     "tech_matrix_code": "1.0.0",
-    "net_pixel_vortex": "1.0.0"
+    "net_pixel_vortex": "1.0.0",
+    "byte_stream_maven": "1.0.0"
   },
-  "homepage": "https://github.com/BauknightMenas315/byte_stream_maven#README.md"
+  "homepage": "https://github.com/ruthemontefusco375/logic_code_matrix#README.md"
 }
