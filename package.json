@@ -1,12 +1,12 @@
 {
-  "name": "pool_tea_utils",
-  "version": "1.2.0",
+  "name": "react_add_sum_util",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/827danny/pool_tea_utils"
+    "url": "https://github.com/827danny/react_add_sum_util"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "827danny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/827danny/pool_tea_utils/issues"
+    "url": "https://github.com/827danny/react_add_sum_util/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -71,7 +71,8 @@
     "napping_toolkit": "1.0.0",
     "random_sum_key": "1.0.0",
     "random_pool_tea_utils": "1.0.0",
-    "hexo_page_utils": "1.0.0"
+    "hexo_page_utils": "1.0.0",
+    "pool_tea_utils": "1.0.0"
   },
-  "homepage": "https://github.com/827danny/pool_tea_utils#README.md"
+  "homepage": "https://github.com/827danny/react_add_sum_util#README.md"
 }
