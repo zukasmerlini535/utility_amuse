@@ -1,12 +1,12 @@
 {
-  "name": "beautiful_melody",
-  "version": "1.2.0",
+  "name": "fresh_meadow",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/827danny/beautiful_melody"
+    "url": "https://github.com/827danny/fresh_meadow"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "827danny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/827danny/beautiful_melody/issues"
+    "url": "https://github.com/827danny/fresh_meadow/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -56,31 +56,7 @@
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
-    "cyber_stream_code": "1.0.0",
-    "data_pixel_vortex": "1.0.0",
-    "tech_logic_maven": "1.0.0",
-    "net_cyber_wave": "1.0.0",
-    "pixel_data_link": "1.0.0",
-    "logic_tech_maze": "1.0.0",
-    "cyber_byte_stream": "1.0.0",
-    "git_tea_toolkit": "1.0.0",
-    "byte_data_logic": "1.0.0",
-    "cyber_tech_pulse": "1.0.0",
-    "code_network_matrix": "1.0.0",
-    "stream_pixel_maven": "1.0.0",
-    "byte_logic_spark_tea": "1.0.0",
-    "data_net_vortex": "1.0.0",
-    "gentle_whisper": "1.0.0",
-    "vibrant_sunset": "1.0.0",
-    "emerald_stardust": "1.0.0",
-    "crimson_velvet": "1.0.0",
-    "vivid_rainbow": "1.0.0",
-    "warm_embrace": "1.0.0",
-    "tranquil_nightsky": "1.0.0",
-    "soaring_wings": "1.0.0",
-    "graceful_clouds": "1.0.0",
-    "blissful_breeze": "1.0.0",
-    "sweet_moments": "1.0.0"
+    "beautiful_melody": "1.0.0"
   },
-  "homepage": "https://github.com/827danny/beautiful_melody#README.md"
+  "homepage": "https://github.com/827danny/fresh_meadow#README.md"
 }
