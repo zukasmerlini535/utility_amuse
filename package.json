@@ -1,12 +1,12 @@
 {
-  "name": "data_cyber_matrix",
+  "name": "data_cyber_matrix_x",
   "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KermitCisneros528/data_cyber_matrix"
+    "url": "https://github.com/KermitCisneros528/data_cyber_matrix_x"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "KermitCisneros528",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KermitCisneros528/data_cyber_matrix/issues"
+    "url": "https://github.com/KermitCisneros528/data_cyber_matrix_x/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -70,5 +70,5 @@
     "stream_pixel_maven": "1.0.0",
     "byte_logic_spark_tea": "1.0.0"
   },
-  "homepage": "https://github.com/KermitCisneros528/data_cyber_matrix#README.md"
+  "homepage": "https://github.com/KermitCisneros528/data_cyber_matrix_x#README.md"
 }
