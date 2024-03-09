@@ -1,12 +1,12 @@
 {
-  "name": "cyber_tech_pulse",
-  "version": "1.2.0",
+  "name": "code_network_matrix",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KermitCisneros528/cyber_tech_pulse"
+    "url": "https://github.com/KermitCisneros528/code_network_matrix"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "KermitCisneros528",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KermitCisneros528/cyber_tech_pulse/issues"
+    "url": "https://github.com/KermitCisneros528/code_network_matrix/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -64,7 +64,8 @@
     "logic_tech_maze": "1.0.0",
     "cyber_byte_stream": "1.0.0",
     "git_tea_toolkit": "1.0.0",
-    "byte_data_logic": "1.0.0"
+    "byte_data_logic": "1.0.0",
+    "cyber_tech_pulse": "1.0.0"
   },
-  "homepage": "https://github.com/KermitCisneros528/cyber_tech_pulse#README.md"
+  "homepage": "https://github.com/KermitCisneros528/code_network_matrix#README.md"
 }
