@@ -1,12 +1,12 @@
 {
-  "name": "warm_embrace",
-  "version": "1.2.0",
+  "name": "tranquil_nightsky",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mckinnona888/warm_embrace"
+    "url": "https://github.com/mckinnona888/tranquil_nightsky"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "mckinnona888",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mckinnona888/warm_embrace/issues"
+    "url": "https://github.com/mckinnona888/tranquil_nightsky/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -74,7 +74,8 @@
     "vibrant_sunset": "1.0.0",
     "emerald_stardust": "1.0.0",
     "crimson_velvet": "1.0.0",
-    "vivid_rainbow": "1.0.0"
+    "vivid_rainbow": "1.0.0",
+    "warm_embrace": "1.0.0"
   },
-  "homepage": "https://github.com/mckinnona888/warm_embrace#README.md"
+  "homepage": "https://github.com/mckinnona888/tranquil_nightsky#README.md"
 }
