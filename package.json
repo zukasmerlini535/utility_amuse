@@ -1,12 +1,12 @@
 {
-  "name": "data_cyber_matrix_x",
+  "name": "gentle_whisper",
   "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KermitCisneros528/data_cyber_matrix_x"
+    "url": "https://github.com/jouckodd/gentle_whisper"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "KermitCisneros528",
+  "author": "jouckodd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KermitCisneros528/data_cyber_matrix_x/issues"
+    "url": "https://github.com/jouckodd/gentle_whisper/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -68,7 +68,8 @@
     "cyber_tech_pulse": "1.0.0",
     "code_network_matrix": "1.0.0",
     "stream_pixel_maven": "1.0.0",
-    "byte_logic_spark_tea": "1.0.0"
+    "byte_logic_spark_tea": "1.0.0",
+    "data_net_vortex": "1.0.0"
   },
-  "homepage": "https://github.com/KermitCisneros528/data_cyber_matrix_x#README.md"
+  "homepage": "https://github.com/jouckodd/gentle_whisper#README.md"
 }
