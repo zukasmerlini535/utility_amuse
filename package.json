@@ -1,12 +1,12 @@
 {
-  "name": "enchanted_mistral",
-  "version": "1.2.0",
+  "name": "twilight_reflections",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MccowinCarretta150/enchanted_mistral"
+    "url": "https://github.com/MccowinCarretta150/twilight_reflections"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "MccowinCarretta150",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MccowinCarretta150/enchanted_mistral/issues"
+    "url": "https://github.com/MccowinCarretta150/twilight_reflections/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -79,7 +79,8 @@
     "whispering_starlight": "1.0.0",
     "peaceful_breeze": "1.0.0",
     "radiant_springtime": "1.0.0",
-    "dancing_fireflies": "1.0.0"
+    "dancing_fireflies": "1.0.0",
+    "enchanted_mistral": "1.0.0"
   },
-  "homepage": "https://github.com/MccowinCarretta150/enchanted_mistral#README.md"
+  "homepage": "https://github.com/MccowinCarretta150/twilight_reflections#README.md"
 }
