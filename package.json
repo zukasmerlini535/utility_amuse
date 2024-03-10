@@ -1,12 +1,12 @@
 {
-  "name": "serene_whisper",
-  "version": "1.2.0",
+  "name": "golden_harmony",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiddlechizek158/serene_whisper"
+    "url": "https://github.com/kiddlechizek158/golden_harmony"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "kiddlechizek158",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiddlechizek158/serene_whisper/issues"
+    "url": "https://github.com/kiddlechizek158/golden_harmony/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -69,7 +69,8 @@
     "tranquil_serenity": "1.0.0",
     "radiant_glow": "1.0.0",
     "enchanted_melody": "1.0.0",
-    "blissful_dusk": "1.0.0"
+    "blissful_dusk": "1.0.0",
+    "serene_whisper": "1.0.0"
   },
-  "homepage": "https://github.com/kiddlechizek158/serene_whisper#README.md"
+  "homepage": "https://github.com/kiddlechizek158/golden_harmony#README.md"
 }
