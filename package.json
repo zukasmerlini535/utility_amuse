@@ -1,12 +1,12 @@
 {
-  "name": "blackberry_curse",
-  "version": "1.2.0",
+  "name": "enjoyment_disembodiment",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VanudenEischeid771/blackberry_curse"
+    "url": "https://github.com/VanudenEischeid771/enjoyment_disembodiment"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "VanudenEischeid771",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VanudenEischeid771/blackberry_curse/issues"
+    "url": "https://github.com/VanudenEischeid771/enjoyment_disembodiment/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -65,7 +65,8 @@
     "preserves_lag": "1.0.0",
     "great_obsolete": "1.0.0",
     "gainful_attraction": "1.0.0",
-    "mailer_latte": "1.0.0"
+    "mailer_latte": "1.0.0",
+    "blackberry_curse": "1.0.0"
   },
-  "homepage": "https://github.com/VanudenEischeid771/blackberry_curse#README.md"
+  "homepage": "https://github.com/VanudenEischeid771/enjoyment_disembodiment#README.md"
 }
