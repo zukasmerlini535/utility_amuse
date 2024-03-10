@@ -1,12 +1,12 @@
 {
-  "name": "whimsical_morning",
-  "version": "1.2.0",
+  "name": "peaceful_sunset",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PinnetteFormato892/whimsical_morning"
+    "url": "https://github.com/PinnetteFormato892/peaceful_sunset"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "PinnetteFormato892",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PinnetteFormato892/whimsical_morning/issues"
+    "url": "https://github.com/PinnetteFormato892/peaceful_sunset/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -66,7 +66,8 @@
     "serene_evergreen": "1.0.0",
     "golden_dusk": "1.0.0",
     "tranquil_zephyr": "1.0.0",
-    "shimmering_wonder": "1.0.0"
+    "shimmering_wonder": "1.0.0",
+    "whimsical_morning": "1.0.0"
   },
-  "homepage": "https://github.com/PinnetteFormato892/whimsical_morning#README.md"
+  "homepage": "https://github.com/PinnetteFormato892/peaceful_sunset#README.md"
 }
