@@ -1,12 +1,12 @@
 {
-  "name": "blissful_morning",
-  "version": "1.2.0",
+  "name": "serene_harmonies",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrittsanChristine76/blissful_morning"
+    "url": "https://github.com/BrittsanChristine76/serene_harmonies"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "BrittsanChristine76",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BrittsanChristine76/blissful_morning/issues"
+    "url": "https://github.com/BrittsanChristine76/serene_harmonies/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -63,7 +63,8 @@
     "whimsical_aurora": "1.0.0",
     "tranquil_solace": "1.0.0",
     "radiant_serenade": "1.0.0",
-    "enchanted_sunset": "1.0.0"
+    "enchanted_sunset": "1.0.0",
+    "blissful_morning": "1.0.0"
   },
-  "homepage": "https://github.com/BrittsanChristine76/blissful_morning#README.md"
+  "homepage": "https://github.com/BrittsanChristine76/serene_harmonies#README.md"
 }
