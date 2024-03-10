@@ -1,12 +1,12 @@
 {
-  "name": "tranquil_mistral",
-  "version": "1.2.0",
+  "name": "blissful_silhouette",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShahbazSidiropoulos78/tranquil_mistral"
+    "url": "https://github.com/NinfaRoybal707/blissful_silhouette"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "ShahbazSidiropoulos78",
+  "author": "NinfaRoybal707",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShahbazSidiropoulos78/tranquil_mistral/issues"
+    "url": "https://github.com/NinfaRoybal707/blissful_silhouette/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -79,7 +79,8 @@
     "whispering_breeze": "1.0.0",
     "serene_dreamscape": "1.0.0",
     "radiant_spring": "1.0.0",
-    "whimsical_whisper": "1.0.0"
+    "whimsical_whisper": "1.0.0",
+    "tranquil_mistral": "1.0.0"
   },
-  "homepage": "https://github.com/ShahbazSidiropoulos78/tranquil_mistral#README.md"
+  "homepage": "https://github.com/NinfaRoybal707/blissful_silhouette#README.md"
 }
