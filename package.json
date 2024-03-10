@@ -1,12 +1,12 @@
 {
-  "name": "dancing_rainbows",
-  "version": "1.2.0",
+  "name": "enchanted_mist",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RukavinaSanden78/dancing_rainbows"
+    "url": "https://github.com/RukavinaSanden78/enchanted_mist"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "RukavinaSanden78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RukavinaSanden78/dancing_rainbows/issues"
+    "url": "https://github.com/RukavinaSanden78/enchanted_mist/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "shimmering_mirage": "1.0.0",
     "whimsical_solitude": "1.0.0",
     "peaceful_dawn": "1.0.0",
-    "radiant_gardenia": "1.0.0"
+    "radiant_gardenia": "1.0.0",
+    "dancing_rainbows": "1.0.0"
   },
-  "homepage": "https://github.com/RukavinaSanden78/dancing_rainbows#README.md"
+  "homepage": "https://github.com/RukavinaSanden78/enchanted_mist#README.md"
 }
