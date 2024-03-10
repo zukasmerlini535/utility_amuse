@@ -1,12 +1,12 @@
 {
-  "name": "shimmering_galaxy",
-  "version": "1.2.0",
+  "name": "whimsical_wanderer",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiddlechizek158/shimmering_galaxy"
+    "url": "https://github.com/kiddlechizek158/whimsical_wanderer"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "kiddlechizek158",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiddlechizek158/shimmering_galaxy/issues"
+    "url": "https://github.com/kiddlechizek158/whimsical_wanderer/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "blissful_dusk": "1.0.0",
     "serene_whisper": "1.0.0",
     "golden_harmony_tea": "1.0.0",
-    "tranquil_oasis": "1.0.0"
+    "tranquil_oasis": "1.0.0",
+    "shimmering_galaxy": "1.0.0"
   },
-  "homepage": "https://github.com/kiddlechizek158/shimmering_galaxy#README.md"
+  "homepage": "https://github.com/kiddlechizek158/whimsical_wanderer#README.md"
 }
