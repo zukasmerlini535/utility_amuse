@@ -1,12 +1,12 @@
 {
-  "name": "twilight_whispers",
-  "version": "1.2.0",
+  "name": "dancing_firelight",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RukavinaSanden78/twilight_whispers"
+    "url": "https://github.com/PrysPhommaseng141/dancing_firelight"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "RukavinaSanden78",
+  "author": "PrysPhommaseng141",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RukavinaSanden78/twilight_whispers/issues"
+    "url": "https://github.com/PrysPhommaseng141/dancing_firelight/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -74,7 +74,8 @@
     "peaceful_dawn": "1.0.0",
     "radiant_gardenia": "1.0.0",
     "dancing_rainbows": "1.0.0",
-    "enchanted_mist": "1.0.0"
+    "enchanted_mist": "1.0.0",
+    "twilight_whispers": "1.0.0"
   },
-  "homepage": "https://github.com/RukavinaSanden78/twilight_whispers#README.md"
+  "homepage": "https://github.com/PrysPhommaseng141/dancing_firelight#README.md"
 }
