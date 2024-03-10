@@ -1,12 +1,12 @@
 {
-  "name": "mystical_aurora",
-  "version": "1.2.0",
+  "name": "tranquil_dreamscape",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NinfaRoybal707/mystical_aurora"
+    "url": "https://github.com/TarazonRabinovich824/tranquil_dreamscape"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "NinfaRoybal707",
+  "author": "TarazonRabinovich824",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NinfaRoybal707/mystical_aurora/issues"
+    "url": "https://github.com/TarazonRabinovich824/tranquil_dreamscape/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -64,7 +64,8 @@
     "golden_landscape": "1.0.0",
     "tranquil_gaze": "1.0.0",
     "shimmering_fantasy": "1.0.0",
-    "whimsical_lullaby": "1.0.0"
+    "whimsical_lullaby": "1.0.0",
+    "mystical_aurora": "1.0.0"
   },
-  "homepage": "https://github.com/NinfaRoybal707/mystical_aurora#README.md"
+  "homepage": "https://github.com/TarazonRabinovich824/tranquil_dreamscape#README.md"
 }
