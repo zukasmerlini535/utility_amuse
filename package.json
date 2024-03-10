@@ -1,12 +1,12 @@
 {
-  "name": "tranquil_sable",
-  "version": "1.2.0",
+  "name": "whispering_stardust",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MccowinCarretta150/tranquil_sable"
+    "url": "https://github.com/MccowinCarretta150/whispering_stardust"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "MccowinCarretta150",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MccowinCarretta150/tranquil_sable/issues"
+    "url": "https://github.com/MccowinCarretta150/whispering_stardust/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -57,7 +57,8 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
     "twilight_reflections": "1.0.0",
-    "blissful_solace": "1.0.0"
+    "blissful_solace": "1.0.0",
+    "tranquil_sable": "1.0.0"
   },
-  "homepage": "https://github.com/MccowinCarretta150/tranquil_sable#README.md"
+  "homepage": "https://github.com/MccowinCarretta150/whispering_stardust#README.md"
 }
