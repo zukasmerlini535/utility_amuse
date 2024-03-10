@@ -1,12 +1,12 @@
 {
-  "name": "whispering_melodies",
-  "version": "1.2.0",
+  "name": "serene_reflections",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PrysPhommaseng141/whispering_melodies"
+    "url": "https://github.com/PrysPhommaseng141/serene_reflections"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "PrysPhommaseng141",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PrysPhommaseng141/whispering_melodies/issues"
+    "url": "https://github.com/PrysPhommaseng141/serene_reflections/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -78,7 +78,8 @@
     "twilight_whispers": "1.0.0",
     "dancing_firelight": "1.0.0",
     "blissful_serendipity": "1.0.0",
-    "tranquil_silhouette": "1.0.0"
+    "tranquil_silhouette": "1.0.0",
+    "whispering_melodies": "1.0.0"
   },
-  "homepage": "https://github.com/PrysPhommaseng141/whispering_melodies#README.md"
+  "homepage": "https://github.com/PrysPhommaseng141/serene_reflections#README.md"
 }
