@@ -1,12 +1,12 @@
 {
-  "name": "enchanted_mist",
-  "version": "1.2.0",
+  "name": "twilight_whispers",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RukavinaSanden78/enchanted_mist"
+    "url": "https://github.com/RukavinaSanden78/twilight_whispers"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "RukavinaSanden78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RukavinaSanden78/enchanted_mist/issues"
+    "url": "https://github.com/RukavinaSanden78/twilight_whispers/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -73,7 +73,8 @@
     "whimsical_solitude": "1.0.0",
     "peaceful_dawn": "1.0.0",
     "radiant_gardenia": "1.0.0",
-    "dancing_rainbows": "1.0.0"
+    "dancing_rainbows": "1.0.0",
+    "enchanted_mist": "1.0.0"
   },
-  "homepage": "https://github.com/RukavinaSanden78/enchanted_mist#README.md"
+  "homepage": "https://github.com/RukavinaSanden78/twilight_whispers#README.md"
 }
