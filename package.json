@@ -1,12 +1,12 @@
 {
-  "name": "blissful_serenity",
-  "version": "1.2.0",
+  "name": "serene_evergreen",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PinnetteFormato892/blissful_serenity"
+    "url": "https://github.com/PinnetteFormato892/serene_evergreen"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "PinnetteFormato892",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PinnetteFormato892/blissful_serenity/issues"
+    "url": "https://github.com/PinnetteFormato892/serene_evergreen/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -61,7 +61,8 @@
     "tranquil_haven": "1.0.0",
     "radiant_harmony": "1.0.0",
     "enchanted_glimpse": "1.0.0",
-    "enchanted_gaze": "1.0.0"
+    "enchanted_gaze": "1.0.0",
+    "blissful_serenity": "1.0.0"
   },
-  "homepage": "https://github.com/PinnetteFormato892/blissful_serenity#README.md"
+  "homepage": "https://github.com/PinnetteFormato892/serene_evergreen#README.md"
 }
