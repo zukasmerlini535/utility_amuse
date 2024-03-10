@@ -1,12 +1,12 @@
 {
-  "name": "enchanted_glimpse",
-  "version": "1.2.0",
+  "name": "enchanted_gaze",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PrysPhommaseng141/enchanted_glimpse"
+    "url": "https://github.com/PinnetteFormato892/enchanted_gaze"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "PrysPhommaseng141",
+  "author": "PinnetteFormato892",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PrysPhommaseng141/enchanted_glimpse/issues"
+    "url": "https://github.com/PinnetteFormato892/enchanted_gaze/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -59,7 +59,8 @@
     "radiant_cascades": "1.0.0",
     "whimsical_moonlight": "1.0.0",
     "tranquil_haven": "1.0.0",
-    "radiant_harmony": "1.0.0"
+    "radiant_harmony": "1.0.0",
+    "enchanted_glimpse": "1.0.0"
   },
-  "homepage": "https://github.com/PrysPhommaseng141/enchanted_glimpse#README.md"
+  "homepage": "https://github.com/PinnetteFormato892/enchanted_gaze#README.md"
 }
