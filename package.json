@@ -1,12 +1,12 @@
 {
-  "name": "communion_fragile",
-  "version": "1.2.0",
+  "name": "edition_generation",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VanudenEischeid771/communion_fragile"
+    "url": "https://github.com/VanudenEischeid771/edition_generation"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "VanudenEischeid771",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VanudenEischeid771/communion_fragile/issues"
+    "url": "https://github.com/VanudenEischeid771/edition_generation/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -68,7 +68,8 @@
     "mailer_latte": "1.0.0",
     "blackberry_curse": "1.0.0",
     "enjoyment_disembodiment": "1.0.0",
-    "mute_unarmed": "1.0.0"
+    "mute_unarmed": "1.0.0",
+    "communion_fragile": "1.0.0"
   },
-  "homepage": "https://github.com/VanudenEischeid771/communion_fragile#README.md"
+  "homepage": "https://github.com/VanudenEischeid771/edition_generation#README.md"
 }
