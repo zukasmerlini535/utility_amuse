@@ -1,12 +1,12 @@
 {
-  "name": "whimsical_whisper",
-  "version": "1.2.0",
+  "name": "tranquil_mistral",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShahbazSidiropoulos78/whimsical_whisper"
+    "url": "https://github.com/ShahbazSidiropoulos78/tranquil_mistral"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "ShahbazSidiropoulos78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShahbazSidiropoulos78/whimsical_whisper/issues"
+    "url": "https://github.com/ShahbazSidiropoulos78/tranquil_mistral/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -78,7 +78,8 @@
     "tranquil_sapphire": "1.0.0",
     "whispering_breeze": "1.0.0",
     "serene_dreamscape": "1.0.0",
-    "radiant_spring": "1.0.0"
+    "radiant_spring": "1.0.0",
+    "whimsical_whisper": "1.0.0"
   },
-  "homepage": "https://github.com/ShahbazSidiropoulos78/whimsical_whisper#README.md"
+  "homepage": "https://github.com/ShahbazSidiropoulos78/tranquil_mistral#README.md"
 }
