@@ -1,12 +1,12 @@
 {
-  "name": "serendipity_moments",
-  "version": "1.2.0",
+  "name": "radiant_sunbeam",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaffiomaster/serendipity_moments"
+    "url": "https://github.com/gaffiomaster/radiant_sunbeam"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "gaffiomaster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaffiomaster/serendipity_moments/issues"
+    "url": "https://github.com/gaffiomaster/radiant_sunbeam/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -60,7 +60,8 @@
     "blissful_solace": "1.0.0",
     "tranquil_sable": "1.0.0",
     "whispering_stardust": "1.0.0",
-    "blissful_harmony": "1.0.0"
+    "blissful_harmony": "1.0.0",
+    "serendipity_moments": "1.0.0"
   },
-  "homepage": "https://github.com/gaffiomaster/serendipity_moments#README.md"
+  "homepage": "https://github.com/gaffiomaster/radiant_sunbeam#README.md"
 }
