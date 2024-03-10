@@ -1,12 +1,12 @@
 {
-  "name": "blissful_silhouette",
-  "version": "1.2.0",
+  "name": "radiant_meadow",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NinfaRoybal707/blissful_silhouette"
+    "url": "https://github.com/NinfaRoybal707/radiant_meadow"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "NinfaRoybal707",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NinfaRoybal707/blissful_silhouette/issues"
+    "url": "https://github.com/NinfaRoybal707/radiant_meadow/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -56,31 +56,7 @@
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
-    "radiant_cascades": "1.0.0",
-    "whimsical_moonlight": "1.0.0",
-    "tranquil_haven": "1.0.0",
-    "radiant_harmony": "1.0.0",
-    "enchanted_glimpse": "1.0.0",
-    "enchanted_gaze": "1.0.0",
-    "blissful_serenity": "1.0.0",
-    "serene_evergreen": "1.0.0",
-    "golden_dusk": "1.0.0",
-    "tranquil_zephyr": "1.0.0",
-    "shimmering_wonder": "1.0.0",
-    "whimsical_morning": "1.0.0",
-    "peaceful_sunset": "1.0.0",
-    "radiant_sparkle": "1.0.0",
-    "dancing_butterflies": "1.0.0",
-    "twilight_tranquility": "1.0.0",
-    "enchanted_sway": "1.0.0",
-    "twilight_melodies": "1.0.0",
-    "blissful_solitude": "1.0.0",
-    "tranquil_sapphire": "1.0.0",
-    "whispering_breeze": "1.0.0",
-    "serene_dreamscape": "1.0.0",
-    "radiant_spring": "1.0.0",
-    "whimsical_whisper": "1.0.0",
-    "tranquil_mistral": "1.0.0"
+    "blissful_silhouette": "1.0.0"
   },
-  "homepage": "https://github.com/NinfaRoybal707/blissful_silhouette#README.md"
+  "homepage": "https://github.com/NinfaRoybal707/radiant_meadow#README.md"
 }
