@@ -1,12 +1,12 @@
 {
-  "name": "radiant_sunbeam",
-  "version": "1.2.0",
+  "name": "serene_oasis",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaffiomaster/radiant_sunbeam"
+    "url": "https://github.com/gaffiomaster/serene_oasis"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "gaffiomaster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaffiomaster/radiant_sunbeam/issues"
+    "url": "https://github.com/gaffiomaster/serene_oasis/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -61,7 +61,8 @@
     "tranquil_sable": "1.0.0",
     "whispering_stardust": "1.0.0",
     "blissful_harmony": "1.0.0",
-    "serendipity_moments": "1.0.0"
+    "serendipity_moments": "1.0.0",
+    "radiant_sunbeam": "1.0.0"
   },
-  "homepage": "https://github.com/gaffiomaster/radiant_sunbeam#README.md"
+  "homepage": "https://github.com/gaffiomaster/serene_oasis#README.md"
 }
