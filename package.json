@@ -1,12 +1,12 @@
 {
-  "name": "whimsical_glimmer",
-  "version": "1.2.0",
+  "name": "tranquil_serenity",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiddlechizek158/whimsical_glimmer"
+    "url": "https://github.com/kiddlechizek158/tranquil_serenity"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "kiddlechizek158",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiddlechizek158/whimsical_glimmer/issues"
+    "url": "https://github.com/kiddlechizek158/tranquil_serenity/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -64,7 +64,8 @@
     "enchanted_lullaby": "1.0.0",
     "twilight_sparkle_tea": "1.0.0",
     "blissful_solitude_tea": "1.0.0",
-    "tranquil_mist": "1.0.0"
+    "tranquil_mist": "1.0.0",
+    "whimsical_glimmer": "1.0.0"
   },
-  "homepage": "https://github.com/kiddlechizek158/whimsical_glimmer#README.md"
+  "homepage": "https://github.com/kiddlechizek158/tranquil_serenity#README.md"
 }
