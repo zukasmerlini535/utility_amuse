@@ -1,12 +1,12 @@
 {
-  "name": "great_obsolete",
-  "version": "1.2.0",
+  "name": "gainful_attraction",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HadderFahner485/great_obsolete"
+    "url": "https://github.com/HadderFahner485/gainful_attraction"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "HadderFahner485",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HadderFahner485/great_obsolete/issues"
+    "url": "https://github.com/HadderFahner485/gainful_attraction/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -62,7 +62,8 @@
     "odometer_adorable": "1.0.0",
     "drapes_capitalism": "1.0.0",
     "boutique_analgesia": "1.0.0",
-    "preserves_lag": "1.0.0"
+    "preserves_lag": "1.0.0",
+    "great_obsolete": "1.0.0"
   },
-  "homepage": "https://github.com/HadderFahner485/great_obsolete#README.md"
+  "homepage": "https://github.com/HadderFahner485/gainful_attraction#README.md"
 }
