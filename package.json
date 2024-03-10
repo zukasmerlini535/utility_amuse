@@ -1,12 +1,12 @@
 {
-  "name": "enchanted_lullaby",
-  "version": "1.2.0",
+  "name": "twilight_sparkle",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/trembleydesai851/enchanted_lullaby"
+    "url": "https://github.com/trembleydesai851/twilight_sparkle"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "trembleydesai851",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trembleydesai851/enchanted_lullaby/issues"
+    "url": "https://github.com/trembleydesai851/twilight_sparkle/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -60,7 +60,8 @@
     "whimsical_wonderland": "1.0.0",
     "serene_glow": "1.0.0",
     "radiant_butterfly": "1.0.0",
-    "dancing_moonlight": "1.0.0"
+    "dancing_moonlight": "1.0.0",
+    "enchanted_lullaby": "1.0.0"
   },
-  "homepage": "https://github.com/trembleydesai851/enchanted_lullaby#README.md"
+  "homepage": "https://github.com/trembleydesai851/twilight_sparkle#README.md"
 }
