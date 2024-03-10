@@ -1,12 +1,12 @@
 {
-  "name": "whispering_willow",
-  "version": "1.2.0",
+  "name": "whimsical_dreamer",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaffiomaster/whispering_willow"
+    "url": "https://github.com/wxhaugust/whimsical_dreamer"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "gaffiomaster",
+  "author": "wxhaugust",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaffiomaster/whispering_willow/issues"
+    "url": "https://github.com/wxhaugust/whimsical_dreamer/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -68,7 +68,8 @@
     "gentle_breeze": "1.0.0",
     "mystic_forest": "1.0.0",
     "starry_nightfall": "1.0.0",
-    "captivating_journey": "1.0.0"
+    "captivating_journey": "1.0.0",
+    "whispering_willow": "1.0.0"
   },
-  "homepage": "https://github.com/gaffiomaster/whispering_willow#README.md"
+  "homepage": "https://github.com/wxhaugust/whimsical_dreamer#README.md"
 }
