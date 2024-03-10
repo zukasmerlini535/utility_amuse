@@ -1,12 +1,12 @@
 {
-  "name": "radiant_sparkle",
-  "version": "1.2.0",
+  "name": "dancing_butterflies",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PinnetteFormato892/radiant_sparkle"
+    "url": "https://github.com/PinnetteFormato892/dancing_butterflies"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "PinnetteFormato892",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PinnetteFormato892/radiant_sparkle/issues"
+    "url": "https://github.com/PinnetteFormato892/dancing_butterflies/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -68,7 +68,8 @@
     "tranquil_zephyr": "1.0.0",
     "shimmering_wonder": "1.0.0",
     "whimsical_morning": "1.0.0",
-    "peaceful_sunset": "1.0.0"
+    "peaceful_sunset": "1.0.0",
+    "radiant_sparkle": "1.0.0"
   },
-  "homepage": "https://github.com/PinnetteFormato892/radiant_sparkle#README.md"
+  "homepage": "https://github.com/PinnetteFormato892/dancing_butterflies#README.md"
 }
