@@ -1,12 +1,12 @@
 {
-  "name": "golden_lullaby",
-  "version": "1.2.0",
+  "name": "tranquil_moonbeam",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RukavinaSanden78/golden_lullaby"
+    "url": "https://github.com/RukavinaSanden78/tranquil_moonbeam"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "RukavinaSanden78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RukavinaSanden78/golden_lullaby/issues"
+    "url": "https://github.com/RukavinaSanden78/tranquil_moonbeam/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -66,7 +66,8 @@
     "enchanted_sunset": "1.0.0",
     "blissful_morning": "1.0.0",
     "serene_harmonies": "1.0.0",
-    "radiant_mist": "1.0.0"
+    "radiant_mist": "1.0.0",
+    "golden_lullaby": "1.0.0"
   },
-  "homepage": "https://github.com/RukavinaSanden78/golden_lullaby#README.md"
+  "homepage": "https://github.com/RukavinaSanden78/tranquil_moonbeam#README.md"
 }
