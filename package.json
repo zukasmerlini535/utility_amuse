@@ -1,12 +1,12 @@
 {
-  "name": "blissful_twilight",
-  "version": "1.2.0",
+  "name": "melody_raindrops",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wxhaugust/blissful_twilight"
+    "url": "https://github.com/wxhaugust/melody_raindrops"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "wxhaugust",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wxhaugust/blissful_twilight/issues"
+    "url": "https://github.com/wxhaugust/melody_raindrops/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -74,7 +74,8 @@
     "tranquil_harmony": "1.0.0",
     "radiant_morning": "1.0.0",
     "serene_waters": "1.0.0",
-    "enchanted_whisper": "1.0.0"
+    "enchanted_whisper": "1.0.0",
+    "blissful_twilight": "1.0.0"
   },
-  "homepage": "https://github.com/wxhaugust/blissful_twilight#README.md"
+  "homepage": "https://github.com/wxhaugust/melody_raindrops#README.md"
 }
