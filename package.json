@@ -1,12 +1,12 @@
 {
-  "name": "golden_harmony_tea",
-  "version": "1.2.0",
+  "name": "tranquil_oasis",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiddlechizek158/golden_harmony_tea"
+    "url": "https://github.com/kiddlechizek158/tranquil_oasis"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "kiddlechizek158",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiddlechizek158/golden_harmony_tea/issues"
+    "url": "https://github.com/kiddlechizek158/tranquil_oasis/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -70,7 +70,8 @@
     "radiant_glow": "1.0.0",
     "enchanted_melody": "1.0.0",
     "blissful_dusk": "1.0.0",
-    "serene_whisper": "1.0.0"
+    "serene_whisper": "1.0.0",
+    "golden_harmony_tea": "1.0.0"
   },
-  "homepage": "https://github.com/kiddlechizek158/golden_harmony_tea#README.md"
+  "homepage": "https://github.com/kiddlechizek158/tranquil_oasis#README.md"
 }
