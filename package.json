@@ -1,12 +1,12 @@
 {
-  "name": "clarity_stool",
-  "version": "1.2.0",
+  "name": "strudel_alcoholic",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SubanAhamed545/clarity_stool"
+    "url": "https://github.com/SubanAhamed545/strudel_alcoholic"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "SubanAhamed545",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SubanAhamed545/clarity_stool/issues"
+    "url": "https://github.com/SubanAhamed545/strudel_alcoholic/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -77,7 +77,8 @@
     "throat_profit": "1.0.0",
     "tomography_zoo": "1.0.0",
     "charter_difficulty": "1.0.0",
-    "republican_anger": "1.0.0"
+    "republican_anger": "1.0.0",
+    "clarity_stool": "1.0.0"
   },
-  "homepage": "https://github.com/SubanAhamed545/clarity_stool#README.md"
+  "homepage": "https://github.com/SubanAhamed545/strudel_alcoholic#README.md"
 }
