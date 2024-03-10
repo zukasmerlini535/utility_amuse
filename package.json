@@ -1,12 +1,12 @@
 {
-  "name": "mystic_forest",
-  "version": "1.2.0",
+  "name": "starry_nightfall",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaffiomaster/mystic_forest"
+    "url": "https://github.com/gaffiomaster/starry_nightfall"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "gaffiomaster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaffiomaster/mystic_forest/issues"
+    "url": "https://github.com/gaffiomaster/starry_nightfall/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -65,7 +65,8 @@
     "radiant_sunbeam": "1.0.0",
     "serene_oasis": "1.0.0",
     "tranquil_serenade_tea": "1.0.0",
-    "gentle_breeze": "1.0.0"
+    "gentle_breeze": "1.0.0",
+    "mystic_forest": "1.0.0"
   },
-  "homepage": "https://github.com/gaffiomaster/mystic_forest#README.md"
+  "homepage": "https://github.com/gaffiomaster/starry_nightfall#README.md"
 }
