@@ -1,12 +1,12 @@
 {
-  "name": "serene_morning",
-  "version": "1.2.0",
+  "name": "golden_harmony",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TarazonRabinovich824/serene_morning"
+    "url": "https://github.com/TarazonRabinovich824/golden_harmony"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "TarazonRabinovich824",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TarazonRabinovich824/serene_morning/issues"
+    "url": "https://github.com/TarazonRabinovich824/golden_harmony/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -70,7 +70,8 @@
     "tranquil_serenade": "1.0.0",
     "radiant_glowworm": "1.0.0",
     "enchanted_moonbeam": "1.0.0",
-    "blissful_whisper": "1.0.0"
+    "blissful_whisper": "1.0.0",
+    "serene_morning": "1.0.0"
   },
-  "homepage": "https://github.com/TarazonRabinovich824/serene_morning#README.md"
+  "homepage": "https://github.com/TarazonRabinovich824/golden_harmony#README.md"
 }
