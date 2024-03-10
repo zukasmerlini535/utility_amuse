@@ -1,12 +1,12 @@
 {
-  "name": "blissful_solitude",
+  "name": "blissful_solitude_tea",
   "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/trembleydesai851/blissful_solitude"
+    "url": "https://github.com/trembleydesai851/blissful_solitude_tea"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "trembleydesai851",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trembleydesai851/blissful_solitude/issues"
+    "url": "https://github.com/trembleydesai851/blissful_solitude_tea/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -64,5 +64,5 @@
     "enchanted_lullaby": "1.0.0",
     "twilight_sparkle_tea": "1.0.0"
   },
-  "homepage": "https://github.com/trembleydesai851/blissful_solitude#README.md"
+  "homepage": "https://github.com/trembleydesai851/blissful_solitude_tea#README.md"
 }
