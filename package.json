@@ -1,12 +1,12 @@
 {
-  "name": "serene_harmonies",
-  "version": "1.2.0",
+  "name": "radiant_mist",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrittsanChristine76/serene_harmonies"
+    "url": "https://github.com/RukavinaSanden78/radiant_mist"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "BrittsanChristine76",
+  "author": "RukavinaSanden78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BrittsanChristine76/serene_harmonies/issues"
+    "url": "https://github.com/RukavinaSanden78/radiant_mist/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -64,7 +64,8 @@
     "tranquil_solace": "1.0.0",
     "radiant_serenade": "1.0.0",
     "enchanted_sunset": "1.0.0",
-    "blissful_morning": "1.0.0"
+    "blissful_morning": "1.0.0",
+    "serene_harmonies": "1.0.0"
   },
-  "homepage": "https://github.com/BrittsanChristine76/serene_harmonies#README.md"
+  "homepage": "https://github.com/RukavinaSanden78/radiant_mist#README.md"
 }
