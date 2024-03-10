@@ -1,12 +1,12 @@
 {
-  "name": "serene_harbor",
-  "version": "1.2.0",
+  "name": "golden_landscape",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NinfaRoybal707/serene_harbor"
+    "url": "https://github.com/NinfaRoybal707/golden_landscape"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "NinfaRoybal707",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NinfaRoybal707/serene_harbor/issues"
+    "url": "https://github.com/NinfaRoybal707/golden_landscape/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -59,7 +59,8 @@
     "blissful_silhouette": "1.0.0",
     "radiant_meadow": "1.0.0",
     "enchanted_hush": "1.0.0",
-    "blissful_tranquility": "1.0.0"
+    "blissful_tranquility": "1.0.0",
+    "serene_harbor": "1.0.0"
   },
-  "homepage": "https://github.com/NinfaRoybal707/serene_harbor#README.md"
+  "homepage": "https://github.com/NinfaRoybal707/golden_landscape#README.md"
 }
