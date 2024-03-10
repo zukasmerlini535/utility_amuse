@@ -1,12 +1,12 @@
 {
-  "name": "edition_generation",
-  "version": "1.2.0",
+  "name": "gall-bladder_dependent",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VanudenEischeid771/edition_generation"
+    "url": "https://github.com/VanudenEischeid771/gall-bladder_dependent"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "VanudenEischeid771",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VanudenEischeid771/edition_generation/issues"
+    "url": "https://github.com/VanudenEischeid771/gall-bladder_dependent/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -69,7 +69,8 @@
     "blackberry_curse": "1.0.0",
     "enjoyment_disembodiment": "1.0.0",
     "mute_unarmed": "1.0.0",
-    "communion_fragile": "1.0.0"
+    "communion_fragile": "1.0.0",
+    "edition_generation": "1.0.0"
   },
-  "homepage": "https://github.com/VanudenEischeid771/edition_generation#README.md"
+  "homepage": "https://github.com/VanudenEischeid771/gall-bladder_dependent#README.md"
 }
