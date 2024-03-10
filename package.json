@@ -1,12 +1,12 @@
 {
-  "name": "shimmering_mirage",
-  "version": "1.2.0",
+  "name": "whimsical_solitude",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RukavinaSanden78/shimmering_mirage"
+    "url": "https://github.com/RukavinaSanden78/whimsical_solitude"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "RukavinaSanden78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RukavinaSanden78/shimmering_mirage/issues"
+    "url": "https://github.com/RukavinaSanden78/whimsical_solitude/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -68,7 +68,8 @@
     "serene_harmonies": "1.0.0",
     "radiant_mist": "1.0.0",
     "golden_lullaby": "1.0.0",
-    "tranquil_moonbeam": "1.0.0"
+    "tranquil_moonbeam": "1.0.0",
+    "shimmering_mirage": "1.0.0"
   },
-  "homepage": "https://github.com/RukavinaSanden78/shimmering_mirage#README.md"
+  "homepage": "https://github.com/RukavinaSanden78/whimsical_solitude#README.md"
 }
