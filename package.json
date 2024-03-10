@@ -1,12 +1,12 @@
 {
-  "name": "radiant_spring",
-  "version": "1.2.0",
+  "name": "whimsical_whisper",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShahbazSidiropoulos78/radiant_spring"
+    "url": "https://github.com/ShahbazSidiropoulos78/whimsical_whisper"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "ShahbazSidiropoulos78",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShahbazSidiropoulos78/radiant_spring/issues"
+    "url": "https://github.com/ShahbazSidiropoulos78/whimsical_whisper/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -77,7 +77,8 @@
     "blissful_solitude": "1.0.0",
     "tranquil_sapphire": "1.0.0",
     "whispering_breeze": "1.0.0",
-    "serene_dreamscape": "1.0.0"
+    "serene_dreamscape": "1.0.0",
+    "radiant_spring": "1.0.0"
   },
-  "homepage": "https://github.com/ShahbazSidiropoulos78/radiant_spring#README.md"
+  "homepage": "https://github.com/ShahbazSidiropoulos78/whimsical_whisper#README.md"
 }
