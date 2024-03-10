@@ -1,12 +1,12 @@
 {
-  "name": "policy_solid",
-  "version": "1.2.0",
+  "name": "wicked_piety",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VanudenEischeid771/policy_solid"
+    "url": "https://github.com/VanudenEischeid771/wicked_piety"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "VanudenEischeid771",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VanudenEischeid771/policy_solid/issues"
+    "url": "https://github.com/VanudenEischeid771/wicked_piety/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "communion_fragile": "1.0.0",
     "edition_generation": "1.0.0",
     "gall-bladder_dependent": "1.0.0",
-    "trigger_hypothesis": "1.0.0"
+    "trigger_hypothesis": "1.0.0",
+    "policy_solid": "1.0.0"
   },
-  "homepage": "https://github.com/VanudenEischeid771/policy_solid#README.md"
+  "homepage": "https://github.com/VanudenEischeid771/wicked_piety#README.md"
 }
