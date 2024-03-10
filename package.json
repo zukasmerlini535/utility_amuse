@@ -1,12 +1,12 @@
 {
-  "name": "enchanted_gaze",
-  "version": "1.2.0",
+  "name": "blissful_serenity",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PinnetteFormato892/enchanted_gaze"
+    "url": "https://github.com/PinnetteFormato892/blissful_serenity"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "PinnetteFormato892",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PinnetteFormato892/enchanted_gaze/issues"
+    "url": "https://github.com/PinnetteFormato892/blissful_serenity/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -60,7 +60,8 @@
     "whimsical_moonlight": "1.0.0",
     "tranquil_haven": "1.0.0",
     "radiant_harmony": "1.0.0",
-    "enchanted_glimpse": "1.0.0"
+    "enchanted_glimpse": "1.0.0",
+    "enchanted_gaze": "1.0.0"
   },
-  "homepage": "https://github.com/PinnetteFormato892/enchanted_gaze#README.md"
+  "homepage": "https://github.com/PinnetteFormato892/blissful_serenity#README.md"
 }
