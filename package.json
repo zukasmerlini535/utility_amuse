@@ -1,12 +1,12 @@
 {
-  "name": "tranquil_oceanic",
-  "version": "1.2.0",
+  "name": "shimmering_dreamer",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TarazonRabinovich824/tranquil_oceanic"
+    "url": "https://github.com/TarazonRabinovich824/shimmering_dreamer"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "TarazonRabinovich824",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TarazonRabinovich824/tranquil_oceanic/issues"
+    "url": "https://github.com/TarazonRabinovich824/shimmering_dreamer/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "enchanted_moonbeam": "1.0.0",
     "blissful_whisper": "1.0.0",
     "serene_morning": "1.0.0",
-    "golden_harmony": "1.0.0"
+    "golden_harmony": "1.0.0",
+    "tranquil_oceanic": "1.0.0"
   },
-  "homepage": "https://github.com/TarazonRabinovich824/tranquil_oceanic#README.md"
+  "homepage": "https://github.com/TarazonRabinovich824/shimmering_dreamer#README.md"
 }
