@@ -1,12 +1,12 @@
 {
-  "name": "enchanted_melody",
-  "version": "1.2.0",
+  "name": "blissful_dusk",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiddlechizek158/enchanted_melody"
+    "url": "https://github.com/kiddlechizek158/blissful_dusk"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "kiddlechizek158",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiddlechizek158/enchanted_melody/issues"
+    "url": "https://github.com/kiddlechizek158/blissful_dusk/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -67,7 +67,8 @@
     "tranquil_mist": "1.0.0",
     "whimsical_glimmer": "1.0.0",
     "tranquil_serenity": "1.0.0",
-    "radiant_glow": "1.0.0"
+    "radiant_glow": "1.0.0",
+    "enchanted_melody": "1.0.0"
   },
-  "homepage": "https://github.com/kiddlechizek158/enchanted_melody#README.md"
+  "homepage": "https://github.com/kiddlechizek158/blissful_dusk#README.md"
 }
