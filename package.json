@@ -1,12 +1,12 @@
 {
-  "name": "radiant_harmony",
-  "version": "1.2.0",
+  "name": "enchanted_glimpse",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PrysPhommaseng141/radiant_harmony"
+    "url": "https://github.com/PrysPhommaseng141/enchanted_glimpse"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "PrysPhommaseng141",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PrysPhommaseng141/radiant_harmony/issues"
+    "url": "https://github.com/PrysPhommaseng141/enchanted_glimpse/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -58,7 +58,8 @@
     "rollup-plugin-uglify": "^3.0.0",
     "radiant_cascades": "1.0.0",
     "whimsical_moonlight": "1.0.0",
-    "tranquil_haven": "1.0.0"
+    "tranquil_haven": "1.0.0",
+    "radiant_harmony": "1.0.0"
   },
-  "homepage": "https://github.com/PrysPhommaseng141/radiant_harmony#README.md"
+  "homepage": "https://github.com/PrysPhommaseng141/enchanted_glimpse#README.md"
 }
