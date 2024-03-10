@@ -1,12 +1,12 @@
 {
-  "name": "throat_profit",
+  "name": "tomography_zoo",
   "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SubanAhamed545/throat_profit"
+    "url": "https://github.com/SubanAhamed545/tomography_zoo"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "SubanAhamed545",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SubanAhamed545/throat_profit/issues"
+    "url": "https://github.com/SubanAhamed545/tomography_zoo/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -73,7 +73,8 @@
     "serene_whisper": "1.0.0",
     "golden_harmony_tea": "1.0.0",
     "tranquil_oasis": "1.0.0",
-    "shimmering_galaxy": "1.0.0"
+    "shimmering_galaxy": "1.0.0",
+    "throat_profit": "1.0.0"
   },
-  "homepage": "https://github.com/SubanAhamed545/throat_profit#README.md"
+  "homepage": "https://github.com/SubanAhamed545/tomography_zoo#README.md"
 }
