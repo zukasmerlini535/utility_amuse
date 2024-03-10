@@ -1,12 +1,12 @@
 {
-  "name": "starry_nightfall",
-  "version": "1.2.0",
+  "name": "captivating_journey",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaffiomaster/starry_nightfall"
+    "url": "https://github.com/gaffiomaster/captivating_journey"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "gaffiomaster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaffiomaster/starry_nightfall/issues"
+    "url": "https://github.com/gaffiomaster/captivating_journey/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -66,7 +66,8 @@
     "serene_oasis": "1.0.0",
     "tranquil_serenade_tea": "1.0.0",
     "gentle_breeze": "1.0.0",
-    "mystic_forest": "1.0.0"
+    "mystic_forest": "1.0.0",
+    "starry_nightfall": "1.0.0"
   },
-  "homepage": "https://github.com/gaffiomaster/starry_nightfall#README.md"
+  "homepage": "https://github.com/gaffiomaster/captivating_journey#README.md"
 }
