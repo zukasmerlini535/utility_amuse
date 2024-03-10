@@ -1,12 +1,12 @@
 {
-  "name": "better_cuddly",
-  "version": "1.2.0",
+  "name": "utility_amuse",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZukasMerlini535/better_cuddly"
+    "url": "https://github.com/ZukasMerlini535/utility_amuse"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "ZukasMerlini535",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZukasMerlini535/better_cuddly/issues"
+    "url": "https://github.com/ZukasMerlini535/utility_amuse/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -74,7 +74,8 @@
     "gall-bladder_dependent": "1.0.0",
     "trigger_hypothesis": "1.0.0",
     "policy_solid": "1.0.0",
-    "wicked_piety": "1.0.0"
+    "wicked_piety": "1.0.0",
+    "better_cuddly": "1.0.0"
   },
-  "homepage": "https://github.com/ZukasMerlini535/better_cuddly#README.md"
+  "homepage": "https://github.com/ZukasMerlini535/utility_amuse#README.md"
 }
